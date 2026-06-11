@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background: #0f0f1a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  background: #ff3c3c;
+  border: none;
+  color: white;
+  border-radius: 8px;
+}
+
+video {
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 10px;
+  }
